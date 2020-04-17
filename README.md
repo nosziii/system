@@ -13,10 +13,6 @@ I make it in order to create an up-to-date starter repo which contains all impor
 *This is just my personal boilerplate, it may or may not be a good fit for your project(s).*
 Inspired by [dstroot/skeleton](https://github.com/dstroot/skeleton) and [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
 
-**If you like my work, please [donate](https://www.paypal.me/meregnorbert). Thank you!**
-
-### [Live Demo](http://vemapp.moleculer.services/) (login: test/test1234 or sign-up)
-
 ## Features
 
 **Server-side**
@@ -96,21 +92,6 @@ Starting the images
 ```
 $ docker-compose up
 ```
-
-## Screenshots
-
-### Login screen
-
-![Login screen](https://cloud.githubusercontent.com/assets/306521/20032026/e2241716-a381-11e6-8ec2-4e0263308762.png)
-
-### Index page after login
-
-![Index page](https://cloud.githubusercontent.com/assets/306521/20032034/e401f10c-a381-11e6-86bb-5325671d32bf.png)
-
-### Devices page
-
-![Devices module](https://cloud.githubusercontent.com/assets/306521/20032035/e5e7ec60-a381-11e6-9481-e1db97126797.png)
-
 ## Directory structure
 ```txt
 +---build
@@ -257,8 +238,3 @@ These are the instructions for Twitter:
 
 vue-express-mongo-boilerplate is available under the [MIT license](https://tldrlegal.com/license/mit-license).
 
-## Contact
-
-Copyright (C) 2016 Icebob
-
-[![@icebob](https://img.shields.io/badge/github-icebob-green.svg)](https://github.com/icebob) [![@icebob](https://img.shields.io/badge/twitter-Icebobcsi-blue.svg)](https://twitter.com/Icebobcsi)
